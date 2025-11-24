@@ -82,6 +82,20 @@ You will probably need to enter your B-Fabric credentials.
 
 ### 7. Questions 
 
-* [Questions RNAseq exercise2](https://fgcz-shiny.uzh.ch/SUSHI_course_2023/RNAseq/exercise2/)
+- **Question 1**: What is the gene model? Do our reads map to the right part of the gene? (Hint: Take a look at the annotation track at the bottom)
+
+<img src="screenshots/FST_mapping.png" width="70%">
+
+- **Question 2**: Is the gene expressed in samples from both conditions?
+
+- **Question 3**: Is there a difference in the read coverage between samples from both conditions? (Hint: Take a look at the number of reads in the coverage track)
+
+- **Question 4**: How many isoforms are identified?
+
+<img src="screenshots/sashimi_plot1.png" width="70%">
+
+- **Question 5**: Look at the splice junctions, which isoforms are present almost exclusively in one sample? Which sample?
+
+<img src="screenshots/sashimi_plot2.png" width="70%">
 
 Next: [Exercise3 Feature Counts](Exercise_3.md)

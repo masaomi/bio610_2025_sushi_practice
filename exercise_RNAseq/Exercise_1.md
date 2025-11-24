@@ -56,8 +56,23 @@ Wait... Or maybe take a peek at the `jobs` screen?
 
 ### 10. Questions 
 
-* [Questions RNAseq exercise1](https://fgcz-shiny.uzh.ch/SUSHI_course_2023/RNAseq/exercise1/)
+### 10. Questions
 
-*What would be a good preprocessing strategy for this data?* 
+#### Quantity
+
+- **Question 1**: Which, if any, samples are overrepresented?
+
+<img src="screenshots/total_reads.png" width="70%">
+
+#### Quality
+
+- **Question 2**: Are there differences in base quality scores across or within the samples?
+    - Not really, but in general, the base quality of R2 reads (the second reads of paired-end) is lower than R1
+    - In general, the tail part of the reads has lower base quality than the head and middle part
+
+- **Question 3**: Is there any adapter contamination in any of the samples? What might be the cause of this?
+
+- **Question 4**: What would be a good preprocessing strategy for this data?
+
 
 Next: [Exercise2 Read Mapping and IGV](Exercise_2.md)

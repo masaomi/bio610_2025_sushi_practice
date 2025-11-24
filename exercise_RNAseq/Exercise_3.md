@@ -29,6 +29,31 @@ Options
 
 ### 3. Explore the CountQC Static Report
 
-* [Questions RNAseq exercise3](https://fgcz-shiny.uzh.ch/SUSHI_course_2023/RNAseq/exercise3/)
+#### General QC
+
+- **Question 1**: How many reads are in our final CountQC report, compared with our initial FastQC report? 
+
+<img src="screenshots/total_counts.png" width="50%">
+
+- **Question 2**: How many features (in %) are above the threshold? 
+
+<img src="screenshots/genomic_features.png" width="50%">
+
+- **Question 3**: How best to proceed with underrepresented libraries? Generate more reads, or exclude them? 
+
+#### Sample and gene clustering 
+
+- **Question 4**: How do the samples cluster in the dendrogram? 
+
+<img src="screenshots/clustering.png" width="50%">
+
+- **Question 5**: Are there any outliers? Would you retain or exclude these from downstream analysis? 
+
+- **Question 6**: Are there any biologically-relevant gene clusters? (Hint: Look at the clustering of high variance features. Rows represent genes, columns are samples.)
+
+- **Question 7**: Look at the multidimensional scaling (MDS) plots. How are the samples separated along the three dimensions? 
+
+<img src="screenshots/mds_plot.png" width="70%">
+
 
 Next: [Exercise4 Differential Expression](Exercise_4.md)
