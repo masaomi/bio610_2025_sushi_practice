@@ -92,7 +92,7 @@ You will probably need to enter your B-Fabric credentials.
 
 - **Question 4**: How many isoforms are identified? (Hint: You can open **Sashimi plot** by right click menu)
 
-<img src="screenshots/sashimi_plot.png" width="70%">
+<img src="screenshots/sashimi_plot1.png" width="70%">
 
 - **Question 5**: Look at the splice junctions, which isoforms are present almost exclusively in one sample? Which sample?
 
