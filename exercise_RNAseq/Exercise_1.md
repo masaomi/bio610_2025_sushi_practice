@@ -67,8 +67,6 @@ Wait... Or maybe take a peek at the `jobs` screen?
 #### Quality
 
 - **Question 2**: Are there differences in base quality scores across or within the samples?
-    - Not really, but in general, the base quality of R2 reads (the second reads of paired-end) is lower than R1
-    - In general, the tail part of the reads has lower base quality than the head and middle part
 
 - **Question 3**: Is there any adapter contamination in any of the samples? What might be the cause of this?
 
