@@ -82,7 +82,7 @@ You will probably need to enter your B-Fabric credentials.
 
 ### 7. Questions 
 
-- **Question 1**: What is the gene model? Do our reads map to the right part of the gene? (Hint: Take a look at the annotation track at the bottom)
+- **Question 1**: What is the gene model? Do our reads map to the right part of the gene? (Hint: Take a look at the annotation track at the bottom, You can search *FST* gene at the box left side to the "Go" button)
 
 <img src="screenshots/FST_mapping.png" width="70%">
 
@@ -90,12 +90,10 @@ You will probably need to enter your B-Fabric credentials.
 
 - **Question 3**: Is there a difference in the read coverage between samples from both conditions? (Hint: Take a look at the number of reads in the coverage track)
 
-- **Question 4**: How many isoforms are identified?
+- **Question 4**: How many isoforms are identified? (Hint: You can open **Sashimi plot** by right click menu)
 
-<img src="screenshots/sashimi_plot1.png" width="70%">
+<img src="screenshots/sashimi_plot.png" width="70%">
 
 - **Question 5**: Look at the splice junctions, which isoforms are present almost exclusively in one sample? Which sample?
-
-<img src="screenshots/sashimi_plot2.png" width="70%">
 
 Next: [Exercise3 Feature Counts](Exercise_3.md)
