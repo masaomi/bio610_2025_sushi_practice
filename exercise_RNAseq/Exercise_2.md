@@ -70,9 +70,9 @@ S1_undiff:
 
 S4_diff
 
-* https://fgcz-course1.bfabric.org/projects/p6000/STAR_2025-11-24--18-46-28/S4_diff.bam
+* https://fgcz-course1.bfabric.org/projects/p9999/STAR_2025-11-24--18-46-28/S4_diff.bam
 
-* https://fgcz-course1.bfabric.org/projects/p6000/STAR_2025-11-24--18-46-28/S4_diff.bam.bai
+* https://fgcz-course1.bfabric.org/projects/p9999/STAR_2025-11-24--18-46-28/S4_diff.bam.bai
 
 <img src="screenshots/screenshot15.png" width="70%">
 
