@@ -64,15 +64,15 @@ It is probably best to load the full BAM files, to see how a real big dataset mi
 
 S1_undiff:
 
-* https://fgcz-course1.bfabric.org/projects/p6000/STAR_NS278_o5638_2022-03-23--14-49-06/S1_undiff.bam
+* https://fgcz-course1.bfabric.org/projects/p9999/STAR_2025-11-24--18-46-28/S1_undiff.bam
 
-* https://fgcz-course1.bfabric.org/projects/p6000/STAR_NS278_o5638_2022-03-23--14-49-06/S1_undiff.bam.bai
+* https://fgcz-course1.bfabric.org/projects/p9999/STAR_2025-11-24--18-46-28/S1_undiff.bam.bai
 
 S4_diff
 
-* https://fgcz-course1.bfabric.org/projects/p6000/STAR_NS278_o5638_2022-03-23--14-49-06/S4_diff.bam
+* https://fgcz-course1.bfabric.org/projects/p6000/STAR_2025-11-24--18-46-28/S4_diff.bam
 
-* https://fgcz-course1.bfabric.org/projects/p6000/STAR_NS278_o5638_2022-03-23--14-49-06/S4_diff.bam.bai
+* https://fgcz-course1.bfabric.org/projects/p6000/STAR_2025-11-24--18-46-28/S4_diff.bam.bai
 
 <img src="screenshots/screenshot15.png" width="70%">
 
