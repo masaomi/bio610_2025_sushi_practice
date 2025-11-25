@@ -56,12 +56,13 @@ Or you can click the download button <img src="images/download_button.png" width
  Loïc         | p1017
  Michael Louis| p1018
  Songyuan     | p1019
- Si Young     | p1020
- Aparajita    | p1021
- Toni         | p1022
- Sebastian    | p1023
- Nadezhda     | p1024
- Isabella     | p1025
+ Si Young     | p1021
+ Aparajita    | p1022
+ Toni         | p1023
+ Sebastian    | p1024
+ Nadezhda     | p1025
+ Isabella     | p1026
+ Narjes       | p2001
 
 ## Hands-on practices
 
